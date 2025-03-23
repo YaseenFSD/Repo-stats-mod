@@ -4,11 +4,15 @@
 
 Art by [Meltdown Gaming](https://www.deviantart.com/meltdown-gaming/art/Game-stats-icons-904446384)
 
-### Current Version: 1.0.0
+### Current Version: 1.0.2
 ### NOTE: Please know that this is an alpha version of the mod. It is not fully tested and may contain bugs. Use at your own risk.
 
 ### Description
 Currently, this mod only makes your stamina infinite.
+
+### Future Plans
+- Add a feature to make your health infinite.
+- Add a way to toggle the stats on and off.
 
 <hr/>
 
